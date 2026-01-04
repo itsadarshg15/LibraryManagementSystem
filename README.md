@@ -1,18 +1,27 @@
-## Getting Started
+# 📚 Library Management System (JDBC & JSP)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📖 Project Description
+The **Library Management System** is a web-based application developed using **JSP**, **JDBC**, and **MySQL**. It helps manage library operations such as adding books, issuing books, returning books, and managing users.  
+The system reduces manual work and improves efficiency and accuracy in maintaining library records.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Features
+- User Login & Authentication
+- Add, Update, Delete Books
+- View Available Books
+- Issue Books to Students
+- Return Books
+- Search Books by Title / Author
+- Maintain Student Records
+- Admin Dashboard
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🛠️ Technologies Used
+- **Frontend:** JSP, HTML, CSS
+- **Backend:** Java (JSP & Servlets)
+- **Database:** MySQL
+- **Connectivity:** JDBC
+- **Server:** Apache Tomcat
+- **IDE:** Eclipse / IntelliJ IDEA / NetBeans
